@@ -3,12 +3,12 @@
 ### Electronics & Communication Engineering Student
 ### Embedded Systems | Computer Vision | Machine Learning
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 Cyclist Trajectory Prediction
 YOLO + DeepSORT + LSTM for cyclist trajectory prediction.
 
-[View Project](link)
+[View Project]([link](https://github.com/Pavankumarbill/cyclist-detection-and-trajectory-prediction))
 
 ### 🔹 OccFusion
 LiDAR-camera fusion for 3D occupancy prediction.
