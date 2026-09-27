@@ -10,9 +10,10 @@ LiDAR-camera fusion for 3D occupancy prediction.
 
 [View Project](https://github.com/Pavankumarbill/LightOcc)
 
-### 🔹 Low-Cost Beach Sand Grain Size Mapping
-Camera-based automated sand grain size analysis system.
-
+### 🔹 Traffic-Sign-shape-detector
+This project detects traffic signs and their shape
+We trained YOLO v8 model to detect traffic sign in the frame and then used opencv to find countour and then find the shape of the detected sign
+we used
 [View Project](link)
 
 ### 🔹 Cyclist Trajectory Prediction
