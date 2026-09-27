@@ -13,8 +13,8 @@ LiDAR-camera fusion for 3D occupancy prediction.
 ### 🔹 Traffic-Sign-shape-detector
 This project detects traffic signs and their shape
 We trained YOLO v8 model to detect traffic sign in the frame and then used opencv to find countour and then find the shape of the detected sign
-we used
-[View Project](link)
+we used.
+[View Project](https://github.com/Pavankumarbill/Traffic-Sign-shape-detector)
 
 ### 🔹 Cyclist Trajectory Prediction
 YOLO + DeepSORT + LSTM for cyclist trajectory prediction.
