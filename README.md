@@ -1,7 +1,7 @@
 # Hi, I'm Pavan 👋
 
 ### Electronics & Communication Engineering Student
-### Embedded Systems | Computer Vision | Machine Learning
+### Embedded Systems | Machine Learning
 
 ## Featured Projects
 
@@ -18,4 +18,4 @@ Camera-based automated sand grain size analysis system.
 ### 🔹 Cyclist Trajectory Prediction
 YOLO + DeepSORT + LSTM for cyclist trajectory prediction.
 
-[View Project]((https://github.com/Pavankumarbill/cyclist-detection-and-trajectory-prediction))
+[View Project](https://github.com/Pavankumarbill/cyclist-detection-and-trajectory-prediction)
