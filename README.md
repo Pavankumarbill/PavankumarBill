@@ -5,17 +5,17 @@
 
 ## Featured Projects
 
-### 🔹 Cyclist Trajectory Prediction
-YOLO + DeepSORT + LSTM for cyclist trajectory prediction.
-
-[View Project]([link](https://github.com/Pavankumarbill/cyclist-detection-and-trajectory-prediction))
-
-### 🔹 OccFusion
+### 🔹 LightOcc
 LiDAR-camera fusion for 3D occupancy prediction.
 
-[View Project](link)
+[View Project](https://github.com/Pavankumarbill/LightOcc)
 
 ### 🔹 Low-Cost Beach Sand Grain Size Mapping
 Camera-based automated sand grain size analysis system.
 
 [View Project](link)
+
+### 🔹 Cyclist Trajectory Prediction
+YOLO + DeepSORT + LSTM for cyclist trajectory prediction.
+
+[View Project]((https://github.com/Pavankumarbill/cyclist-detection-and-trajectory-prediction))
